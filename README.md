@@ -5,8 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Netlify Status](https://api.netlify.com/api/v1/badges/32d5dd9a-f342-402d-bda7-44f6f58865a6/deploy-status)](https://app.netlify.com/sites/juni-todo-list/deploys)
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -30,7 +28,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Juni Todo List</h3>
+  <h3 align="center">Juni Todo List State Management</h3>
 
   <p align="center">
     project_description
@@ -38,7 +36,7 @@
     <a href="https://github.com/juniHub/todoapp-react-statehook"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://juni-todo-list.netlify.app/" target="_blank">View Demo</a>
+    <a href="https://junihub.github.io/todoapp-react-statehook/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/juniHub/todoapp-react-statehook
 /issues">Report Bug</a>
@@ -47,8 +45,6 @@
 /issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -80,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Juni-todo-screenshot]()
+![Juni-todo-screenshot](https://res.cloudinary.com/dafolrlpj/image/upload/v1622811187/gallery/jullp0scgcj9fybnbg36.png)
 
 
 
