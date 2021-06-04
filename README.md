@@ -1,2 +1,2 @@
-# todoapp-react-statehook
-todolist app using react with statehook
+### todoapp-react-statehook
+- todolist app using react with statehook
