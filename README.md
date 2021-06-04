@@ -84,8 +84,6 @@
 
 * [ReactJS](https://reactjs.org/)
 * [Material UI](https://material-ui.com/)
-* [Deployed on Netlify](https://www.netlify.com/)
-
 
 
 <!-- GETTING STARTED -->
