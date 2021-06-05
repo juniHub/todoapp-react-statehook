@@ -63,7 +63,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -117,12 +116,6 @@ This is an example of how to list things you need to use the software and how to
    npm run start
    ```
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-_For more examples, please refer to the [Documentation](https://junitiennguyen.gitbook.io/todo-list). This will be continued for update and maintainance._
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -153,10 +146,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Juni Nguyen - [hellojuninguyen@gmail.com](hellojuninguyen@gmail.com)
+Juni Nguyen - [hellojuninguyen](hellojuninguyen@gmail.com)
 
-Project Link: [https://github.com/juniHub/todoapp-react-statehook(https://github.com/juniHub/
-todoapp-react-statehook)
+Project Link: [https://github.com/juniHub/todoapp-react-statehook](https://github.com/juniHub/todoapp-react-statehook)
 
 
 
