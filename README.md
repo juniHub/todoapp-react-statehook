@@ -36,7 +36,7 @@
     <a href="https://github.com/juniHub/todoapp-react-statehook"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://junihub.github.io/todoapp-react-statehook/" target="_blank">View Demo</a>
+    <a href="https://juni-todo-statehook.netlify.app/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/juniHub/todoapp-react-statehook
 /issues">Report Bug</a>
